@@ -53,7 +53,18 @@ const Experience = () => {
           </p>
         </div>
 
-        {/* Company 1: Standard Screws Pvt Ltd */}
+        {/* Company 1: Mimecast */}
+        <div className="mb-16 bg-gray-900 p-8 rounded-lg shadow-md transition duration-300 transform hover:scale-105">
+          <p className="text-2xl font-bold text-blue-500 mb-2">Mimecast</p>
+          <p className="text-lg italic text-gray-500 mb-4">Financial Analytics (Procurement) Co-op | January 2024 - Ongoing</p>
+          <p className="text-xl">
+          Architected and executed a comprehensive data unification project utilizing Snowflake to merge customer data from
+various sources i.e. FCM, Concur & World Travel; streamlined data quality by 20%, which in turn optimized financial
+reporting, pricing strategies & strategic decision-making
+          </p>
+        </div>
+
+        {/* Company 2: Standard Screws Pvt Ltd */}
         <div className="mb-16 bg-gray-900 p-8 rounded-lg shadow-md transition duration-300 transform hover:scale-105">
           <p className="text-2xl font-bold text-blue-500 mb-2">Standard Screws Pvt Ltd</p>
           <p className="text-lg italic text-gray-500 mb-4">Data Scientist | June 2021 - July 2022</p>
